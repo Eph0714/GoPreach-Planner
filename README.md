@@ -6,7 +6,7 @@ Personal ministry planner for Android: My Planner, My Ministry (Searching, Retur
 
 Direct download of the APK only:
 
-**https://github.com/Eph0714/GoPreach-Planner/releases/download/v1.0.0/GoPreach-Planner-1.0.0.apk**
+**https://github.com/Eph0714/GoPreach-Planner/releases/download/v1.0.1/GoPreach-Planner-1.0.1.apk**
 
 ## Install
 
